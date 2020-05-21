@@ -1,0 +1,9 @@
+BookingMobile\ui\LoginPage.class
+BookingMobile\tasks\Login.class
+BookingMobile\features\search\LoginStory.class
+BookingMobile\ui\Homepage.class
+BookingMobile\ui\DashBoardResult.class
+BookingMobile\features\search\package-info.class
+BookingMobile\questions\DashBoard.class
+BookingMobile\tasks\OpenTheApplication.class
+BookingMobile\abilities\GetInfoLogin.class
